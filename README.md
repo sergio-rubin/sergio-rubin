@@ -60,9 +60,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sergio-rubin/sergio-rubin/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergio-rubin/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergio-rubin/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sergio-rubin/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -82,18 +84,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c47ajbsltykjensnhvcyiba4nm" alt="Spotify recently played"  />
   </a>
 </div>
-
-<!--
-**sergio-rubin/sergio-rubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
