@@ -72,13 +72,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c47ajbsltykjensnhvcyiba4nm" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<p align="left">Snake?</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergio-rubin/sergio-rubin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergio-rubin/sergio-rubin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sergio-rubin/sergio-rubin/output/github-snake.svg" />
-</picture>
