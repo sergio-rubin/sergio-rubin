@@ -23,11 +23,11 @@ jobs:
         with:
           # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
-          # Configuring the output to include contributions for the last year
+          # Configuring the output to include all contributions from the past year
           outputs: |
-            dist/github-snake.svg?date_format=YYYY-MM-DD&snake_color=blue&max_nb_contributions=365
-            dist/github-snake-dark.svg?palette=github-dark&date_format=YYYY-MM-DD&max_nb_contributions=365
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&date_format=YYYY-MM-DD&max_nb_contributions=365
+            dist/github-snake.svg?palette=github&date_format=YYYY-MM-DD&max_nb_contributions=365&grass_contrast=100&weeks_past=52
+            dist/github-snake-dark.svg?palette=github-dark&date_format=YYYY-MM-DD&max_nb_contributions=365&grass_contrast=100&weeks_past=52
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&date_format=YYYY-MM-DD&max_nb_contributions=365&grass_contrast=100&weeks_past=52
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
