@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Techs I use:</h3>
+<h3 align="center">Techs I know:</h3>
 
 ###
 
