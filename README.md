@@ -63,7 +63,7 @@
 
 ###
 
-<h3 align="left">Music?</h3>
+<h3 align="center">Music?</h3>
 
 ###
 
