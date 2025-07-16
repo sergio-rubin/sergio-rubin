@@ -19,11 +19,25 @@
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
   <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
+  <img width="21" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="42" alt="react logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo"  />
+  <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="django logo"  />
   <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql logo"  />
+  <img width="21" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="42" alt="supabase logo"  />
+  <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="sqlite logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase logo"  />
+  <img width="21" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="42" alt="bootstrap logo"  />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" alt="unity logo"  />
   <img width="21" />
@@ -31,9 +45,11 @@
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="42" alt="visualstudio logo"  />
   <img width="21" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="42" alt="arduino logo"  />
+  <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
   <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="42" alt="dot-net logo"  />
 </div>
 
 ###
