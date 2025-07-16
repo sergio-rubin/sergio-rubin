@@ -67,7 +67,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/Sergio Rubín">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c47ajbsltykjensnhvcyiba4nm" alt="Spotify recently played"  />
   </a>
