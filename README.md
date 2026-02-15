@@ -1,89 +1,78 @@
-<h1 align="center">Hi, I'm Sergio (Computer Science Student)</h1>
-
-###
-
-<h3 align="center">Techs I know:</h3>
-
-###
+<h1 align="center">Hi there, I'm Sergio Rubin 👋</h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
-  <img width="21" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="42" alt="react logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="django logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql logo"  />
-  <img width="21" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="42" alt="supabase logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="sqlite logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase logo"  />
-  <img width="21" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="42" alt="bootstrap logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" alt="unity logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="42" alt="visualstudio logo"  />
-  <img width="21" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="42" alt="arduino logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
-  <img width="21" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="42" alt="dot-net logo"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Founder+of+W.A+CODING" alt="Typing SVG" />
 </div>
 
-###
+<p align="center">
+  <a href="https://wacoding.org" target="_blank">
+    <img src="https://img.shields.io/badge/W.A_CODING-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WA Coding" />
+  </a>
+</p>
 
-<h3 align="center">Social media liks:</h3>
+---
 
-###
+### 👨‍💻 About Me
+
+* Studying **Computer Science Engineering** at **BUAP**.
+* Building digital solutions and leading projects at **[W.A CODING](https://wacoding.org)**.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://www.instagram.com/zoms.erchxd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,html,css" alt="Languages" />
+
+**Frameworks & Libraries**<br>
+<img src="https://skillicons.dev/icons?i=react,django,dotnet" alt="Frameworks" />
+
+**Databases & Backend**<br>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" alt="Databases" />
+
+**Infrastructure, Tools & Game Dev**<br>
+<img src="https://skillicons.dev/icons?i=linux,cloudflare,vscode,visualstudio,unity,arduino" alt="Tools" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sergio-rubin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio-rubin&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🎵 Coding Soundtrack
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31c47ajbsltykjensnhvcyiba4nm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c47ajbsltykjensnhvcyiba4nm" alt="Spotify recently played" />
   </a>
+</div>
+
+---
+
+<h3 align="center">Let's Connect!</h3>
+
+<div align="center">
   <a href="https://discordapp.com/users/674052139789844551" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+  <a href="https://www.instagram.com/zoms.erchxd/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
   <a href="https://www.facebook.com/profile.php?id=100063843164987&locale=es_LA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio-rubin&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="180" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h3 align="center">Music?</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Sergio Rubín">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c47ajbsltykjensnhvcyiba4nm" alt="Spotify recently played"  />
   </a>
 </div>
