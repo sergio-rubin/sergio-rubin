@@ -1,6 +1,11 @@
 <h1 align="center">Hi there, I'm Sergio Rubin 👋</h1>
 
 <div align="center">
+  <img  src="https://github.com/sergio-rubin/sergio-rubin/blob/main/me-gif-banner.gif"
+       alt="me-pixel-coding" /></a>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Founder+of+W.A+CODING" alt="Typing SVG" />
 </div>
 
