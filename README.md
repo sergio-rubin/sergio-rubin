@@ -50,12 +50,6 @@
   <img src="https://streak-stats.demolab.com?user=sergio-rubin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio-rubin&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
-</div>
-
 ---
 
 <h3 align="center">Let's Connect!</h3>
