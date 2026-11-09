@@ -1,67 +1,43 @@
-<h1 align="center">Hi there, I'm Sergio Rubin 👋</h1>
+# Sergio Rubín
 
-<div align="center">
-  <img  src="https://github.com/sergio-rubin/sergio-rubin/blob/main/me-gif-banner.gif"
-       alt="me-pixel-coding" /></a>
-</div>
+```text
+┌───────────────────────────────────────────────────────────────────┐
+│  SERGIO RUBÍN_                                                    │
+│  software developer / W.A Coding / Puebla, MX                    │
+└───────────────────────────────────────────────────────────────────┘
+```
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Founder+of+W.A+CODING" alt="Typing SVG" />
-</div>
+Construyo productos digitales con intención, desde la primera interacción hasta los sistemas que los sostienen. Estudio Ingeniería en Ciencias de la Computación en la BUAP y fundé [W.A Coding](https://wacoding.org/).
 
-<p align="center">
-  <a href="https://wacoding.org" target="_blank">
-    <img src="https://img.shields.io/badge/W.A_CODING-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WA Coding" />
-  </a>
-</p>
+**[Explorar mi portafolio ↗](https://sergio-rubin-portfolio.vercel.app/)** · [Código del sitio](https://github.com/sergio-rubin/my-portfolio)
 
----
+## Trabajo seleccionado
 
-### 👨‍💻 About Me
+| Proyecto | Qué hago |
+| --- | --- |
+| [W.A Coding](https://wacoding.org/) | Fundador · desarrollo de software |
+| [Habitatum](https://habitatum.com.mx/) | Desarrollo web con W.A Coding |
+| [ALFA Media](https://alf4.org/) | Diseño y desarrollo con W.A Coding |
+| [Luna](https://luna.alf4.org/) | Coordinación técnica, desarrollo e infraestructura |
+| [Radar Cultural](https://radarcultural.mx/) | Coordinación de desarrollo técnico |
 
-* Studying **Computer Science Engineering** at **BUAP**.
-* Building digital solutions and leading projects at **[W.A CODING](https://wacoding.org)**.
+También he colaborado en el **Laboratorio ASR** y en el sitio de **Ingeniería en Ciberseguridad** de la FCC-BUAP. Participo en Hackatón Puebla y Hackatón BAM BUAP.
 
----
+## Laboratorio personal
 
-### 🛠️ Tech Stack & Tools
+- [d-dev](https://github.com/W-A-CODING/d-dev) — aplicación de escritorio de cálculos y gráficas, desarrollada con Giovanny Vélez.
+- [grafIA](https://github.com/sergio-rubin/grafIA) — exploraciones matemáticas interactivas.
+- **Stoqio** — inventario offline-first en desarrollo.
+- **Numeración maya + FPGA** — experimento personal en progreso.
 
-<div align="center">
+## Herramientas
 
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,html,css" alt="Languages" />
+`TypeScript` `JavaScript` `React` `Python` `Django` `C/C++` `C#` `PostgreSQL` `SQLite` `Linux` `Cloudflare`
 
-**Frameworks & Libraries**<br>
-<img src="https://skillicons.dev/icons?i=react,django,dotnet" alt="Frameworks" />
+## Conectar
 
-**Databases & Backend**<br>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" alt="Databases" />
+[Portafolio](https://sergio-rubin-portfolio.vercel.app/) · [GitHub](https://github.com/sergio-rubin) · [Instagram](https://www.instagram.com/zoms.erchxd/) · [Discord](https://discordapp.com/users/674052139789844551) · [Facebook](https://www.facebook.com/profile.php?id=100063843164987&locale=es_LA)
 
-**Infrastructure, Tools & Game Dev**<br>
-<img src="https://skillicons.dev/icons?i=linux,cloudflare,vscode,visualstudio,unity,arduino" alt="Tools" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sergio-rubin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-<h3 align="center">Let's Connect!</h3>
-
-<div align="center">
-  <a href="https://discordapp.com/users/674052139789844551" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/zoms.erchxd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100063843164987&locale=es_LA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
+```text
+> hecho con intención y un poco de ASCII </>
+```
